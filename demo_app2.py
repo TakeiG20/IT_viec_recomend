@@ -602,9 +602,9 @@ selected_menu = st.sidebar.selectbox("📋 Select Category:", menu_options)
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 👥 Creators Information")
 
-# st.sidebar.markdown("**Creator 1:**")
-# st.sidebar.markdown("📧 Võ Minh Trí")
-# st.sidebar.markdown("✉️ trivm203@gmail.com")
+st.sidebar.markdown("**Creator 1:**")
+st.sidebar.markdown("📧 Võ Minh Trí")
+st.sidebar.markdown("✉️ trivm203@gmail.com")
 
 st.sidebar.markdown("**Creator 2:**") 
 st.sidebar.markdown("📧 Phạm Thị Thu Thảo")
